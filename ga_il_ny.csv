@@ -1,0 +1,89 @@
+Occupation code,Occupation title (click on the occupation title to view its profile),Level,Employment,Employment RSE,"Employment per 1,000 jobs",Location quotient,Median hourly wage,Mean hourly wage,Annual mean wage,Mean wage RSE,state
+110000.0,Management Occupations,major,482770.0,0.8,51.438,0.98,64.36,74.95,155900.0,0.7,ny
+130000.0,Business and Financial Operations Occupations,major,571050.0,1.4,60.843,1.14,38.14,45.55,94740.0,0.9,ny
+150000.0,Computer and Mathematical Occupations,major,264620.0,1.4,28.194,0.93,43.3,46.79,97320.0,0.8,ny
+170000.0,Architecture and Engineering Occupations,major,112120.0,2.1,11.946,0.68,39.02,43.06,89560.0,1.0,ny
+190000.0,"Life, Physical, and Social Science Occupations",major,67740.0,3.6,7.218,0.89,32.06,36.67,76270.0,1.6,ny
+210000.0,Community and Social Service Occupations,major,191680.0,1.3,20.422,1.36,23.45,25.78,53620.0,1.3,ny
+230000.0,Legal Occupations,major,114010.0,1.7,12.148,1.56,51.14,65.45,136140.0,2.4,ny
+250000.0,"Education, Training, and Library Occupations",major,690330.0,1.2,73.552,1.21,28.84,33.78,70260.0,1.8,ny
+270000.0,"Arts, Design, Entertainment, Sports, and Media Occupations",major,207900.0,1.7,22.151,1.64,31.04,38.4,79870.0,1.2,ny
+290000.0,Healthcare Practitioners and Technical Occupations,major,545670.0,1.0,58.138,0.97,37.3,43.53,90540.0,1.2,ny
+310000.0,Healthcare Support Occupations,major,376080.0,2.0,40.07,1.41,13.9,15.53,32310.0,1.1,ny
+330000.0,Protective Service Occupations,major,313240.0,2.0,33.375,1.41,22.11,26.38,54870.0,2.9,ny
+350000.0,Food Preparation and Serving Related Occupations,major,773400.0,0.8,82.402,0.89,12.53,14.91,31000.0,0.8,ny
+370000.0,Building and Grounds Cleaning and Maintenance Occupations,major,310580.0,1.2,33.091,1.08,15.45,17.54,36470.0,0.8,ny
+390000.0,Personal Care and Service Occupations,major,454170.0,1.5,48.39,1.28,12.97,15.31,31830.0,0.9,ny
+410000.0,Sales and Related Occupations,major,923140.0,0.9,98.357,0.98,14.76,26.06,54200.0,1.7,ny
+430000.0,Office and Administrative Support Occupations,major,1480630.0,0.6,157.755,1.05,19.01,21.28,44250.0,0.4,ny
+450000.0,"Farming, Fishing, and Forestry Occupations",major,5260.0,28.2,0.561,0.17,15.37,18.05,37540.0,1.7,ny
+470000.0,Construction and Extraction Occupations,major,346320.0,1.1,36.899,0.9,27.45,31.14,64770.0,0.8,ny
+490000.0,"Installation, Maintenance, and Repair Occupations",major,311850.0,1.4,33.226,0.85,23.97,25.75,53560.0,0.8,ny
+510000.0,Production Occupations,major,327890.0,1.3,34.935,0.55,17.15,19.74,41060.0,0.5,ny
+530000.0,Transportation and Material Moving Occupations,major,515160.0,1.1,54.888,0.78,17.52,20.66,42960.0,1.5,ny
+110000.0,Management Occupations,major,248840.0,1.0,56.622,1.08,49.14,56.69,117910.0,0.6,ga
+130000.0,Business and Financial Operations Occupations,major,242400.0,1.3,55.156,1.03,31.29,35.06,72920.0,0.7,ga
+150000.0,Computer and Mathematical Occupations,major,148690.0,2.0,33.834,1.12,40.73,42.59,88590.0,1.1,ga
+170000.0,Architecture and Engineering Occupations,major,62570.0,2.1,14.238,0.81,36.57,38.93,80970.0,1.3,ga
+190000.0,"Life, Physical, and Social Science Occupations",major,25580.0,2.3,5.822,0.72,28.85,32.51,67610.0,2.7,ga
+210000.0,Community and Social Service Occupations,major,50540.0,2.3,11.5,0.77,20.11,22.49,46770.0,3.3,ga
+230000.0,Legal Occupations,major,33410.0,2.2,7.602,0.98,36.0,48.8,101500.0,3.9,ga
+250000.0,"Education, Training, and Library Occupations",major,270530.0,1.3,61.558,1.01,23.19,24.58,51130.0,2.8,ga
+270000.0,"Arts, Design, Entertainment, Sports, and Media Occupations",major,61040.0,4.3,13.889,1.03,22.48,26.37,54850.0,3.2,ga
+290000.0,Healthcare Practitioners and Technical Occupations,major,247850.0,1.3,56.397,0.94,29.56,36.39,75690.0,1.3,ga
+310000.0,Healthcare Support Occupations,major,103640.0,2.3,23.582,0.83,13.41,14.38,29910.0,0.9,ga
+330000.0,Protective Service Occupations,major,106440.0,2.4,24.221,1.02,17.4,18.99,39510.0,1.4,ga
+350000.0,Food Preparation and Serving Related Occupations,major,418900.0,0.9,95.319,1.03,9.29,10.35,21520.0,0.6,ga
+370000.0,Building and Grounds Cleaning and Maintenance Occupations,major,112340.0,1.6,25.563,0.84,11.6,12.69,26400.0,1.0,ga
+390000.0,Personal Care and Service Occupations,major,108110.0,2.9,24.6,0.65,10.59,12.52,26040.0,1.3,ga
+410000.0,Sales and Related Occupations,major,472320.0,1.2,107.474,1.07,12.05,18.16,37770.0,1.0,ga
+430000.0,Office and Administrative Support Occupations,major,643490.0,0.9,146.422,0.97,16.17,17.63,36670.0,0.3,ga
+450000.0,"Farming, Fishing, and Forestry Occupations",major,11350.0,7.8,2.583,0.78,12.52,14.55,30260.0,2.0,ga
+470000.0,Construction and Extraction Occupations,major,147410.0,1.8,33.542,0.81,18.41,20.71,43080.0,1.0,ga
+490000.0,"Installation, Maintenance, and Repair Occupations",major,182390.0,1.4,41.501,1.07,20.95,22.47,46730.0,1.0,ga
+510000.0,Production Occupations,major,311820.0,1.3,70.954,1.13,15.0,16.83,35000.0,0.7,ga
+530000.0,Transportation and Material Moving Occupations,major,385080.0,1.5,87.622,1.24,14.71,17.23,35830.0,2.2,ga
+110000.0,Management Occupations,major,453460.0,1.1,75.687,1.44,47.87,55.57,115580.0,0.6,il
+130000.0,Business and Financial Operations Occupations,major,335360.0,1.4,55.975,1.05,32.25,36.35,75600.0,0.8,il
+150000.0,Computer and Mathematical Occupations,major,177530.0,2.2,29.632,0.98,40.65,42.17,87720.0,0.7,il
+170000.0,Architecture and Engineering Occupations,major,88180.0,2.4,14.718,0.83,38.11,40.26,83730.0,0.8,il
+190000.0,"Life, Physical, and Social Science Occupations",major,36690.0,6.8,6.124,0.76,30.39,34.05,70810.0,2.1,il
+210000.0,Community and Social Service Occupations,major,84550.0,2.2,14.112,0.94,21.08,23.4,48670.0,1.5,il
+230000.0,Legal Occupations,major,49630.0,2.6,8.284,1.06,43.07,58.1,120850.0,3.1,il
+250000.0,"Education, Training, and Library Occupations",major,375430.0,1.1,62.663,1.03,23.17,26.72,55570.0,2.3,il
+270000.0,"Arts, Design, Entertainment, Sports, and Media Occupations",major,74740.0,2.5,12.475,0.93,22.06,25.83,53730.0,1.4,il
+290000.0,Healthcare Practitioners and Technical Occupations,major,354250.0,1.4,59.127,0.99,32.28,38.3,79660.0,1.0,il
+310000.0,Healthcare Support Occupations,major,165730.0,1.8,27.662,0.97,13.9,15.51,32250.0,1.6,il
+330000.0,Protective Service Occupations,major,151070.0,1.4,25.215,1.06,21.83,25.84,53750.0,4.8,il
+350000.0,Food Preparation and Serving Related Occupations,major,506720.0,1.0,84.577,0.92,10.4,11.75,24440.0,0.6,il
+370000.0,Building and Grounds Cleaning and Maintenance Occupations,major,165460.0,1.9,27.617,0.9,13.6,15.0,31190.0,0.8,il
+390000.0,Personal Care and Service Occupations,major,169260.0,1.9,28.251,0.75,11.4,13.76,28610.0,1.7,il
+410000.0,Sales and Related Occupations,major,577930.0,1.3,96.463,0.96,13.61,20.53,42700.0,1.4,il
+430000.0,Office and Administrative Support Occupations,major,890740.0,1.1,148.673,0.99,17.32,18.88,39280.0,0.4,il
+450000.0,"Farming, Fishing, and Forestry Occupations",major,5600.0,8.5,0.935,0.28,14.62,16.17,33640.0,2.1,il
+470000.0,Construction and Extraction Occupations,major,183960.0,1.5,30.704,0.75,32.66,32.23,67050.0,0.9,il
+490000.0,"Installation, Maintenance, and Repair Occupations",major,214110.0,1.4,35.736,0.92,23.0,24.52,50990.0,0.8,il
+510000.0,Production Occupations,major,431220.0,1.5,71.974,1.14,16.91,18.85,39220.0,0.7,il
+530000.0,Transportation and Material Moving Occupations,major,499650.0,1.8,83.396,1.18,15.54,19.02,39560.0,2.4,il
+110000.0,Management Occupations,major,482770.0,0.8,51.438,0.98,64.36,74.95,155900.0,0.7,ny
+130000.0,Business and Financial Operations Occupations,major,571050.0,1.4,60.843,1.14,38.14,45.55,94740.0,0.9,ny
+150000.0,Computer and Mathematical Occupations,major,264620.0,1.4,28.194,0.93,43.3,46.79,97320.0,0.8,ny
+170000.0,Architecture and Engineering Occupations,major,112120.0,2.1,11.946,0.68,39.02,43.06,89560.0,1.0,ny
+190000.0,"Life, Physical, and Social Science Occupations",major,67740.0,3.6,7.218,0.89,32.06,36.67,76270.0,1.6,ny
+210000.0,Community and Social Service Occupations,major,191680.0,1.3,20.422,1.36,23.45,25.78,53620.0,1.3,ny
+230000.0,Legal Occupations,major,114010.0,1.7,12.148,1.56,51.14,65.45,136140.0,2.4,ny
+250000.0,"Education, Training, and Library Occupations",major,690330.0,1.2,73.552,1.21,28.84,33.78,70260.0,1.8,ny
+270000.0,"Arts, Design, Entertainment, Sports, and Media Occupations",major,207900.0,1.7,22.151,1.64,31.04,38.4,79870.0,1.2,ny
+290000.0,Healthcare Practitioners and Technical Occupations,major,545670.0,1.0,58.138,0.97,37.3,43.53,90540.0,1.2,ny
+310000.0,Healthcare Support Occupations,major,376080.0,2.0,40.07,1.41,13.9,15.53,32310.0,1.1,ny
+330000.0,Protective Service Occupations,major,313240.0,2.0,33.375,1.41,22.11,26.38,54870.0,2.9,ny
+350000.0,Food Preparation and Serving Related Occupations,major,773400.0,0.8,82.402,0.89,12.53,14.91,31000.0,0.8,ny
+370000.0,Building and Grounds Cleaning and Maintenance Occupations,major,310580.0,1.2,33.091,1.08,15.45,17.54,36470.0,0.8,ny
+390000.0,Personal Care and Service Occupations,major,454170.0,1.5,48.39,1.28,12.97,15.31,31830.0,0.9,ny
+410000.0,Sales and Related Occupations,major,923140.0,0.9,98.357,0.98,14.76,26.06,54200.0,1.7,ny
+430000.0,Office and Administrative Support Occupations,major,1480630.0,0.6,157.755,1.05,19.01,21.28,44250.0,0.4,ny
+450000.0,"Farming, Fishing, and Forestry Occupations",major,5260.0,28.2,0.561,0.17,15.37,18.05,37540.0,1.7,ny
+470000.0,Construction and Extraction Occupations,major,346320.0,1.1,36.899,0.9,27.45,31.14,64770.0,0.8,ny
+490000.0,"Installation, Maintenance, and Repair Occupations",major,311850.0,1.4,33.226,0.85,23.97,25.75,53560.0,0.8,ny
+510000.0,Production Occupations,major,327890.0,1.3,34.935,0.55,17.15,19.74,41060.0,0.5,ny
+530000.0,Transportation and Material Moving Occupations,major,515160.0,1.1,54.888,0.78,17.52,20.66,42960.0,1.5,ny
