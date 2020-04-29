@@ -6,5 +6,3 @@
 <img src="Images/Slide6.PNG" width="800">
 <img src="Images/Slide7.PNG" width="800">
 <img src="Images/Slide8.PNG" width="800">
-
-## Website: 
